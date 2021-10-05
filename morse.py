@@ -3,7 +3,7 @@ import sys
 from rich import print
 
 os.system("clear") 
-os.system("bash /sdcard/bluat.sh") 
+os.system("bash Banner/bluat.sh") 
 
 test={}
 test["1"]=" .---- "
